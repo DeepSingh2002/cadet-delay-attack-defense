@@ -1,0 +1,3 @@
+Random seed: 42
+[P1:t=55221664] [INFO: CADET-GW  ] cadet_alert=1 -- Phase 2 AOPB starting[P2_INIT:t=55221664] [INFO: CADET-GW  ] AOPB path: 5 nodes[PROBE_SENT:t=55233000] [INFO: CADET-GW  ] Probe #1 sent (state=1)[ECHO_RX:t=55272408] [CADET-NODE] PROBE echo seq=1[DONE:t=56579696] [INFO: CADET-P2  ] AOPB done: suspect idx=2TEST OK
+Test ended at simulation time: 56579696
